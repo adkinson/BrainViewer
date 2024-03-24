@@ -1,2 +1,4 @@
 # BrainViewer
- MATLAB Application for viewing brain imaging data with dependencies from iELVis
+ MATLAB Application for viewing brain imaging data including CT, MRI, and electrode recontructions. This software has been made to work in conjunction with the StimulationMapper application (https://github.com/adkinson/StimulationMapper). 
+Dependencies: 
+ -iELVis: https://github.com/iELVis/iELVis

@@ -10,8 +10,7 @@ BrainViewer is a MATLAB application built for viewing brain imaging data in 3D s
 Loaded visualizations also have a number of options for adjusting features like color and opacity in the Image Settings. The options available are dependent of the type of image modality.
 
 >[!Note]
->1. This software acts as a wrapper for the [iELVis imaging repository](https://github.com/iELVis/iELVis) and requires that repository to operate properly. When BrainViewer is run for the first time, options are available to download the iELVis repository >automatically or select the folder containing the repo.
->2. Brain Surface Reconstructions are generated using FreeSurfer.
->3. This software has also been made to work in conjunction with the [StimulationMapper application](https://github.com/adkinson/StimulationMapper), which can use BrainViewer to generate simple real-time visualizations of which electrodes implanted in the >brain detect responsive behavior from stimulation.
+>1. This software requires the [iELVis imaging repository](https://github.com/iELVis/iELVis) to operate properly. When BrainViewer is run for the first time, options are available to download the iELVis repository automatically or select the folder containing the repo.
+>2. This software has also been made to work in conjunction with the [StimulationMapper application](https://github.com/adkinson/StimulationMapper), which can use BrainViewer to generate simple real-time visualizations of which electrodes implanted in the brain detect responsive behavior from stimulation.
 
 For more details on proper utilization and features of this application, please visit the [Wiki](https://github.com/adkinson/BrainViewer/wiki).

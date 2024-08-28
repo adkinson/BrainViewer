@@ -5,8 +5,6 @@ BrainViewer is a MATLAB application built for viewing brain imaging data in 3D s
 * Generate GIFs of 3D navigations around brain
 * Import colored brain atlas onto brain surfaces
 
-<img src="https://github.com/adkinson/BrainViewer/tree/main/docs/rotateBrain.gif" width="50%">
-
 Loaded visualizations also have a number of options for adjusting features like color and opacity in the Image Settings. The options available are dependent of the type of image modality.
 
 >[!Note]
